@@ -1,7 +1,8 @@
 name: google_map_iframe
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
+description: A minimal google map embedder
+version: 0.0.2
+homepage: https://github.com/aadarshadhakalg/google_map_iframe/blob/master/README.md
+repository: https://github.com/aadarshadhakalg/google_map_iframe
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
